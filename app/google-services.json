@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "405743732073",
+    "project_id": "live-score-20dee",
+    "storage_bucket": "live-score-20dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405743732073:android:d20db40281803e389969f8",
+        "android_client_info": {
+          "package_name": "com.talib.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405743732073-duc1rp6v00kpcpalnjbrc5jksh64vsdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talib.firebaseproject",
+            "certificate_hash": "bcb3907b82221eb7a1870877283e2928147784b7"
+          }
+        },
+        {
+          "client_id": "405743732073-8897gjvvfgkplhaf5ojk2uea0qnd1308.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVMIlifFCVVVQErxgnlF2X6d4hfMbmW68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405743732073-8897gjvvfgkplhaf5ojk2uea0qnd1308.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
